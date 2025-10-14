@@ -1,4 +1,4 @@
-# Entry 1
+# Deciding on my Topic(Arts)
 ##### X/X/XX
 
 Text
