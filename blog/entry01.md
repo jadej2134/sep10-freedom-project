@@ -12,6 +12,7 @@ Summary
 *[coldRead](https://coldreadapp.com/#c_app_howitworks) 
 
 The app includes steps on how to use it and reviews
+
 The app includes packages that allow you to make a subscription for a better experience
 
 [Next](entry02.md)
