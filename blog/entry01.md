@@ -15,7 +15,7 @@ The app includes steps on how to use it and reviews
 
 The app includes packages that allow you to make a subscription for a better experience
 
-<img src= https://share.google/images/gsyiqJ2ecRvEJlrrS>
+<img src= https://share.google/images/5mat0XZw4eHsdroPu>
 
 [Next](entry02.md)
 
