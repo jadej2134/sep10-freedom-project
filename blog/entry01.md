@@ -14,7 +14,7 @@ Summary
 The app includes steps on how to use it and reviews
 
 The app includes packages that allow you to make a subscription for a better experience
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/435637334?h=9c4b1cb941" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/435637334?h=9c4b1cb941"
 
 [Next](entry02.md)
 
