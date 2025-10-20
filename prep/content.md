@@ -1,7 +1,7 @@
 # Below are some apps that help actors rehearse,etc.
 
 
-*[coldRead](https://coldreadapp.com/#c_app_howitworks)
+* [coldRead](https://coldreadapp.com/#c_app_howitworks)
 * Text
 * Text
 
