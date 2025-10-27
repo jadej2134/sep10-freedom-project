@@ -2,9 +2,9 @@
 
 ## ColdRead
 * [coldRead](https://coldreadapp.com/#c_app_howitworks)
-* This app helps learning or upcoming actors rehearse their lines or practice with a bot.
-* This app also helps people rehearse their lines or fix the lines they may be stuck on.
-* You can also adjust the settings on the app to your level of comfort or in a pace you can work with.
+  * This app helps learning or upcoming actors rehearse their lines or practice with a bot.
+  * This app also helps people rehearse their lines or fix the lines they may be stuck on.
+  * You can also adjust the settings on the app to your level of comfort or in a pace you can work with.
 
 ## WeAudition
 * [WeAudition](https://www.weaudition.com/)
