@@ -12,7 +12,7 @@ To continue my focus on the arts it is important I do research on knowledge I´l
 Some skills I´ll need so I can concentrate and exceed in the arts are...
 * Managing my time carefully
 * Practicing my skills(ex: singing, drawing) to improve parts that need fixing
-* Using apps to help me practice (ex: [coldRead](https://coldreadapp.com/#c_app_howitworks).
+* Using apps to help me practice (ex: [coldRead](https://coldreadapp.com/#c_app_howitworks) )
 
 ## Summary
 
