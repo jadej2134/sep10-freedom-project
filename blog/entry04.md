@@ -7,6 +7,10 @@ As I navigated through tools I saw two that stood out the most to me and also ma
 ## EDP(Engineering Design Process)
 
 
+## Skills
+
+
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
