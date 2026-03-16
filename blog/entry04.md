@@ -6,7 +6,7 @@ As I navigated through tools I saw two that stood out the most to me and also ma
 
 ## EDP(Engineering Design Process)
 As I began to explore both of these tools, I saw that Bulma and SASS were collaborators and there was a section for just sass labeled "Sass tools". This section includes... 
-* Responsive Mixins ->
+* Responsive Mixins -->
 * Form control mixins
 * Extends
 
