@@ -6,9 +6,10 @@ As I navigated through tools I saw two that stood out the most to me and also ma
 
 ## EDP(Engineering Design Process)
 As I began to explore both of these tools, I saw that Bulma and SASS were collaborators and there was a section for just sass labeled "Sass tools". This section includes... 
-* Responsive Mixins -->
-* Form control mixins
-* Extends
+* Mixins -> Create visual HTML element.
+* Responsive Mixins -> Mixins that allows you to define different styles for each screen size.
+* Form control mixins -> In Bulma, the form controls are an essential part of the framework. They comprise each element and they each do something different but help any page.
+* Extends -> To avoid the repetition, Bulma uses the @extend rule to share code. This rule tells Sass that one selector should inherit the styles of another.
 
 ## Skills
 
