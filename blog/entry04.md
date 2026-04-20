@@ -4,13 +4,19 @@
 ## Content
 As I navigated through tools I saw two that stood out the most to me and also made the most sense to me. Bulma and Sass.
 
+## Sources
+
+[Bulma](https://bulma.io/documentation/start/overview/)
+[SASS](https://sass-lang.com/)
+
+
 ## EDP(Engineering Design Process)
 As I began to explore both of these tools, I saw that Bulma and SASS were collaborators and there was a section for just sass labeled "Sass tools". This section includes... 
 * Mixins -> Create visual HTML element.
 * Responsive Mixins -> Mixins that allows you to define different styles for each screen size.
 * Form control mixins -> In Bulma, the form controls are an essential part of the framework. They comprise each element and they each do something different but help any page.
 * Extends -> To avoid the repetition, Bulma uses the @extend rule to share code. This rule tells Sass that one selector should inherit the styles of another.
-These sections each can help you learn more about how you can improve any page/website you design by improving code and helping you make your website look better.
+These sections each can help you learn more about how you can improve any page/website you design by improving code and helping you make your website look better. In the engineering design process I lean more towards learning which tool works best for me and what I like more.
 
 ## Skills
 
