@@ -10,8 +10,11 @@ As I began to explore both of these tools, I saw that Bulma and SASS were collab
 * Responsive Mixins -> Mixins that allows you to define different styles for each screen size.
 * Form control mixins -> In Bulma, the form controls are an essential part of the framework. They comprise each element and they each do something different but help any page.
 * Extends -> To avoid the repetition, Bulma uses the @extend rule to share code. This rule tells Sass that one selector should inherit the styles of another.
+These sections each can help you learn more about how you can improve any page/website you design by improving code and helping you make your website look better.
 
 ## Skills
+
+Skills do not have to be hard-core using what I´ve learned in class I can combine it with what I´ve learned on Bulma and SASS but taking it slowly and beggining with steps I already understand perfectly then moving onto new and different steps.
 
 
 
