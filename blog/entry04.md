@@ -6,9 +6,9 @@ As I navigated through tools I saw two that stood out the most to me and also ma
 
 ## Sources
 
-[Bulma](https://bulma.io/documentation/start/overview/)
+[Bulma](https://bulma.io/documentation/start/overview/) provides CSS classes to help you style your HTML code
 
-[SASS](https://sass-lang.com/)
+[SASS](https://sass-lang.com/) css compatible 
 
 
 ## EDP(Engineering Design Process)
